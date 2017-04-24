@@ -35,6 +35,7 @@
     "hubot-yahoo-amagumo": ">= 0.0.3",
     "lodash": "*",
     "request": ">=2.79.0",
+    "moment": "^2.13.0",
     "say": ">=0.11.0"
   },
   "engines": {
