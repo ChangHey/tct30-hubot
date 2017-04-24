@@ -14,5 +14,6 @@
   "hubot-misawa",
   "hubot-hotpepper",
   "hubot-slack-timeline",
-  "hubot-slack-soukoban"
+  "hubot-slack-soukoban",
+  "hubot-repl"
 ]
