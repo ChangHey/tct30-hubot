@@ -10,7 +10,7 @@ cronJob = require('cron').CronJob
 module.exports = (robot) ->
   cronStart = new cronJob('0 30 7 * * *', () =>
     envelope = room: "#general"
-    robot.send envelope, "ガシャンガシャン オハヨウゴザイマッスル"
+#    robot.send envelope, "ガシャンガシャン オハヨウゴザイマッスル"
   )
   cronStart.start()
 
